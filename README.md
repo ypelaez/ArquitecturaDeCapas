@@ -39,13 +39,15 @@ Este proyecto consiste en un juego que simula la interacción entre un jugador y
 
 1. **Factory Method:**
 - Utilizado en `enemyFactory.js` para crear instancias de diferentes tipos de enemigos (`Goomba`, `Koopa`, `Boo`):
-<img src="./src/img/goomba.png" width=30>
-<img src="./src/img/koopa.png" width=30>
+<p align="center">
+<img src="./src/img/goomba.png" width=30 style="margin-right: 10px;">
+<img src="./src/img/koopa.png" width=30 style="margin-right: 10px;">
 <img src="./src/img/boo.png" width=30>
+</p>
 
 2. **Adapter:**
 - Utilizado en `attackAdapter.js` para adaptar los ataques de los enemigos de tipo `Boo` a ataques aéreos.
-<img src="./src/img/boo.png" width=30>
+
 
 
 3. **Observer:**
