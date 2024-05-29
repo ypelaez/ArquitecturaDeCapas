@@ -86,6 +86,6 @@ Este proyecto consiste en un juego que simula la interacción entre un jugador y
     ```sh
     node src/main/js/main.js
 
-![](./src/img/boo.png =200x300)
-![](./src/img/goomba.png =200x300)
-![](./src/img/koopa.png =200x300)
+<img src="./src/img/boo.png" width=100>
+<img src="./src/img/goomba.png" width=100>
+<img src="./src/img/koopa.png" width=100>
